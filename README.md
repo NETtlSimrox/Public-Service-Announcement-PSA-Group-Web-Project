@@ -1,6 +1,3 @@
-Nice project 👌 this fits the PSA requirements well. Here’s a **clean, GitHub-ready `README.md`** you can paste directly into your repo. It’s written in a clear, student-project style that instructors usually like.
-
----
 
 # 📢 Scam Text Awareness – Public Service Announcement (PSA)
 This project is a **Public Service Announcement (PSA) website** created to raise awareness about **phishing and scam text messages (smishing)**. The website educates users on how to recognize scam texts, how to respond safely, and what steps to take if they become a victim.
