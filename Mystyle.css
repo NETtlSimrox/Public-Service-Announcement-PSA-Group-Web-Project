@@ -1,0 +1,20 @@
+/*Text Scams PSA*/
+/*Jennifer Juzyk et. al.*/
+/*	Mystyle.css */
+/*need to look at how to style whole site for margins, font standarization, etc, 
+give the image an id to be able to center it or whatever, how to adjust h1 and 2 sizes
+show dividing borders, and underline(?) h1,*/
+
+body	{background-color: lightgray;}
+
+h1		{
+    color: darkred;
+    text-align: center;
+}
+
+h2      {
+    color: darkred;
+    text-align: center;
+}
+
+footer  {text-align: right;}
