@@ -95,13 +95,4 @@ This project was collaboratively created by:
 
 This project is for **educational purposes only**.
 
----
 
-If you want, I can also:
-
-* Make it **shorter** (professor-style)
-* Add **screenshots section**
-* Rewrite it to sound more **professional or casual**
-* Format it exactly how your classmates usually do
-
-Just say the word 😄
