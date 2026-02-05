@@ -89,7 +89,6 @@ This project was collaboratively created by:
 2. Open `index.html` in any modern web browser
 3. Ensure `Mystyle.css` and `scamText.png` are in the same directory
 
----
 
 ## 📜 License
 
